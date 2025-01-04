@@ -1,14 +1,12 @@
 # Love Letter
 
-Welcome to the **Love Letter** repository, a partial implementation of the fast-paced and beloved board game, **Love Letter**. 
-
 In Love Letter, players compete to win the princess's heart by strategically playing cards and outwitting their opponents. The game consists of a series of rounds where players earn tokens of affection. The first player to reach the required number of tokens (based on the number of players) wins the game.
 
 ---
 
 ## Features
 
-- **Gameplay**: Recreates the core mechanics of the original game through a command lind interface.
+- **Gameplay**: Recreates the core mechanics of the original game through a command line interface.
 - **Customizable Rounds**: Supports various player counts, adapting the winning conditions dynamically.
 
 ---
